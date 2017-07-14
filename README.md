@@ -1,4 +1,4 @@
-# workshop-template
+# Exeter Software Workshop 2017
 
 This repository is [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
 template for creating websites for workshops.
